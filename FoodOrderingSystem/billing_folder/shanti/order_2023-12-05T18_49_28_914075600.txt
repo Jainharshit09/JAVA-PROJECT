@@ -1,0 +1,10 @@
+Username: shanti
+Customer Type: Premium
+*********************************Billing Details********************************************
+Ordered Food Items:
+Cold Coffee - 100.0
+Tea - 40.0
+Total Amount: 113.4
+Payment Option: UPI
+Date and Time: 2023-12-05T18:49:28.916070900
+********************************************************************************************

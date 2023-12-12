@@ -1,0 +1,11 @@
+Username: nitu
+Customer Type: Regular
+*********************************Billing Details********************************************
+Ordered Food Items:
+Burger - 50.0
+Cold Coffee - 100.0
+Tea - 40.0
+Total Amount: 171.0
+Payment Option: UPI
+Date and Time: 2023-12-05T18:29:15.867366200
+********************************************************************************************
