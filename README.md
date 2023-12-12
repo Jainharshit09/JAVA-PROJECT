@@ -22,16 +22,16 @@ Secure login with a 3-attempt limit, redirecting to signup after failures.
 Command Line Interface (CLI)
 
 Six main options:
-Customer Details
-View Menu
-Place Order
-Review Rating
-Logout
-Exit
+  1.Customer Details
+  2.View Menu
+  3.Place Order
+  4.Review Rating
+  5.Logout
+  6.Exit
 Requirements
-Java Development Kit (JDK)
-JDBC-compatible database
-Command line interface
+#Java Development Kit (JDK)
+#JDBC-compatible database
+#Command line interface
 Setup
 Clone the repository.
 Install the required JDK.
