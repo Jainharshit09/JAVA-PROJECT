@@ -28,15 +28,21 @@ Six main options:
   4.Review Rating
   5.Logout
   6.Exit
+
+  
 Requirements
 #Java Development Kit (JDK)
 #JDBC-compatible database
 #Command line interface
+
+
 Setup
 Clone the repository.
 Install the required JDK.
 Set up a JDBC-compatible database.
 Configure the database connection in the project.
+
+
 Usage
 Compile and run the main Java file.
 Follow command line prompts to navigate and explore features.
