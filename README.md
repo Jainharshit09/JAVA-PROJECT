@@ -1,43 +1,45 @@
 # JAVA-PROJECT
 
-This readme file provides an overview of a Java project that incorporates fundamental Object-Oriented Programming (OOP) concepts, JDBC for database connectivity, file handling for coupon codes and bill printing, and various features like a premium customer coupon code, a limited login attempt mechanism, signup functionality, and options such as viewing customer details, menu, placing orders, reviewing ratings, logging out, and exiting the application through the command line.
-Table of Contents
-Project Overview
+Overview
+This Java project demonstrates key Object-Oriented Programming (OOP) concepts, JDBC for database connectivity, and file handling for coupon codes and bill printing. It includes features such as premium customer coupon codes, a limited login attempt system, signup functionality, and a command-line interface with options like viewing customer details, menu, placing orders, reviewing ratings, logging out, and exiting.
+
 Features
-Requirements
-Setup
-Usage
-Project Overview<a name="project-overview"></a>
-This Java project is designed to showcase essential OOP principles and utilize JDBC for database interactions. It incorporates features like file handling for coupon codes, billing functionality, a premium customer option, and a secure login system. The project also includes a limited login attempt mechanism, a signup window, and options for customer details, menu viewing, order placement, review ratings, logout, and exit.
-Features<a name="features"></a>
-1. Object-Oriented Programming (OOP)
-The project follows OOP principles for a modular and organized code structure.
-2. JDBC (Java Database Connectivity)
-Utilizes JDBC for database connectivity to manage customer information.
-3. File Handling
-Manages coupon codes and bill printing through file handling.
-4. Premium Customer
-Includes a premium customer option with special coupon code privileges.
-5. Login System
-Implements a secure login system with a maximum of 3 login attempts. After three failed attempts, the user is redirected to the signup window.
-6. Command Line Interface (CLI)
-Features a command line interface for user interaction with six main options:
+OOP Principles
+
+Modular and organized code structure.
+JDBC (Java Database Connectivity)
+
+Manages customer information through JDBC.
+File Handling
+
+Handles coupon codes and bill printing.
+Premium Customer
+
+Special coupon code privileges for premium customers.
+Login System
+
+Secure login with a 3-attempt limit, redirecting to signup after failures.
+Command Line Interface (CLI)
+
+Six main options:
 Customer Details
 View Menu
 Place Order
 Review Rating
 Logout
 Exit
-Requirements<a name="requirements"></a>
+Requirements
 Java Development Kit (JDK)
 JDBC-compatible database
 Command line interface
-Setup<a name="setup"></a>
+Setup
 Clone the repository.
-Ensure you have the necessary JDK installed.
+Install the required JDK.
 Set up a JDBC-compatible database.
 Configure the database connection in the project.
-Usage<a name="usage"></a>
+Usage
 Compile and run the main Java file.
+Follow command line prompts to navigate and explore features.
+Feel free to contribute or customize this readme for your project's specifics.
 Follow the command line prompts to navigate through the application.
 Explore various features like customer details, menu viewing, order placement, and more.
