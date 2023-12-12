@@ -8,8 +8,6 @@ Features
 Requirements
 Setup
 Usage
-Contributing
-License
 Project Overview<a name="project-overview"></a>
 This Java project is designed to showcase essential OOP principles and utilize JDBC for database interactions. It incorporates features like file handling for coupon codes, billing functionality, a premium customer option, and a secure login system. The project also includes a limited login attempt mechanism, a signup window, and options for customer details, menu viewing, order placement, review ratings, logout, and exit.
 
