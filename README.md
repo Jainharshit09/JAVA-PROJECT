@@ -6,22 +6,17 @@ This Java project demonstrates key Object-Oriented Programming (OOP) concepts, J
 
 # Features
 
-• OOP Principles
+• OOP Principles : Modular and organized code structure.
 
-Modular and organized code structure.
-•JDBC (Java Database Connectivity)
+•JDBC (Java Database Connectivity): Manages customer information through JDBC.
 
-Manages customer information through JDBC.
-•File Handling
+•File Handling:Handles coupon codes and bill printing.
 
-Handles coupon codes and bill printing.
-•Premium Customer
+•Premium Customer:Special coupon code privileges for premium customers.
 
-Special coupon code privileges for premium customers.
-•Login System
-
-Secure login with a 3-attempt limit, redirecting to signup after failures.
+•Login System:Secure login with a 3-attempt limit, redirecting to signup after failures.
 Command Line Interface (CLI)
+
 
 # Six main options:
   
