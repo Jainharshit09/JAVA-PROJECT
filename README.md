@@ -39,22 +39,35 @@ Six main options:
 Requirements
 
 #Java Development Kit (JDK)
+
 #JDBC-compatible database
+
+
 #Command line interface
 
 
 Setup
 
+
 Clone the repository.
+
 Install the required JDK.
+
 Set up a JDBC-compatible database.
+
 Configure the database connection in the project.
 
 
 Usage
 
+
 Compile and run the main Java file.
+
 Follow command line prompts to navigate and explore features.
+
 Feel free to contribute or customize this readme for your project's specifics.
+
 Follow the command line prompts to navigate through the application.
+
 Explore various features like customer details, menu viewing, order placement, and more.
+
