@@ -22,21 +22,29 @@ Secure login with a 3-attempt limit, redirecting to signup after failures.
 Command Line Interface (CLI)
 
 Six main options:
+  
   1.Customer Details
+  
   2.View Menu
+  
   3.Place Order
+  
   4.Review Rating
+  
   5.Logout
+  
   6.Exit
 
   
 Requirements
+
 #Java Development Kit (JDK)
 #JDBC-compatible database
 #Command line interface
 
 
 Setup
+
 Clone the repository.
 Install the required JDK.
 Set up a JDBC-compatible database.
@@ -44,6 +52,7 @@ Configure the database connection in the project.
 
 
 Usage
+
 Compile and run the main Java file.
 Follow command line prompts to navigate and explore features.
 Feel free to contribute or customize this readme for your project's specifics.
