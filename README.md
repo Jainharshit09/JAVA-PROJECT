@@ -1,7 +1,6 @@
 # JAVA-PROJECT
 
 This readme file provides an overview of a Java project that incorporates fundamental Object-Oriented Programming (OOP) concepts, JDBC for database connectivity, file handling for coupon codes and bill printing, and various features like a premium customer coupon code, a limited login attempt mechanism, signup functionality, and options such as viewing customer details, menu, placing orders, reviewing ratings, logging out, and exiting the application through the command line.
-
 Table of Contents
 Project Overview
 Features
@@ -10,7 +9,6 @@ Setup
 Usage
 Project Overview<a name="project-overview"></a>
 This Java project is designed to showcase essential OOP principles and utilize JDBC for database interactions. It incorporates features like file handling for coupon codes, billing functionality, a premium customer option, and a secure login system. The project also includes a limited login attempt mechanism, a signup window, and options for customer details, menu viewing, order placement, review ratings, logout, and exit.
-
 Features<a name="features"></a>
 1. Object-Oriented Programming (OOP)
 The project follows OOP principles for a modular and organized code structure.
